@@ -1,1 +1,61 @@
 /* Write your CSS here! */
+#mainHeading
+{
+    text-align: center;
+    color: red;
+    font-size: 35px;
+    height: 55px;
+}
+
+body 
+{
+    margin: 8px;
+    display: block;
+}
+
+#pictures
+{
+    vertical-align: top;
+    display:inline-block;
+    text-align: center;
+    width:1264px;
+}
+
+.images
+{
+    vertical-align: top;
+    display:inline-block;
+    text-align: center;
+}
+
+.labels
+{
+    display: block;
+    height: 25px;
+    font-size: 20px;
+}
+
+.funParagraph
+{
+    color: green;
+    font-size: 22px;
+}
+
+#logo
+{
+    text-align: center;
+}
+
+#foot
+{
+    vertical-align: top;
+    display:inline-block;
+    text-align: center;
+    width: 1264px;
+}
+
+.feet
+{
+    padding: 15px;
+    font-size: 20px;
+}
